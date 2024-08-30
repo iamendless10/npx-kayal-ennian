@@ -1,5 +1,5 @@
 {
-  "name": "kayal_npx",
+  "name": "kayal",
   "version": "1.0.0",
   "type": "module",
   "main": "card.js",
