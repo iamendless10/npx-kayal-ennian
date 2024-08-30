@@ -1,0 +1,71 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# npm package-lock files
+package-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional npm cache directory
+.npm
+
+# Optional yarn cache directory
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/versions.yml
+
+# Optional editor directories
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS Finder directory attributes
+.DS_Store
+
+# Linux trash directory
+.Trash-*
+
+# Windows file system metadata
+Thumbs.db
+ehthumbs.db
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Environment configuration files
+.env
+.env.*.local
