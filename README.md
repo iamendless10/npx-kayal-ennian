@@ -1,7 +1,7 @@
 
 # NPX Kayal
 
-- **NPM**: [Checkout my package](https://www.npmjs.com/package/kayal) ![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)
+**📄NPM**: [Checkout my package](https://www.npmjs.com/package/kayal) 
 
 Welcome to my NPX business card! This project allows you to quickly view my contact information, download my resume, and even schedule a meeting, all directly from your terminal. It's a modern and efficient way to connect.
 
