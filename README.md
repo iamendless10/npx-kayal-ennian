@@ -1,5 +1,7 @@
 
 # NPX Kayal
+![npm](https://img.shields.io/npm/v/kayal_npx?style=for-the-badge)
+
 
 Welcome to my NPX business card! This project allows you to quickly view my contact information, download my resume, and even schedule a meeting, all directly from your terminal. It's a modern and efficient way to connect.
 
