@@ -1,9 +1,8 @@
-Here's your `README.md` file content:
 
-```markdown
+
 # 💼 Kayal Ennian A G - NPX Business Card
 
-Welcome to my NPX business card! This project lets you quickly view my contact information and download my resume directly from your terminal. It's a fun and efficient way to connect.
+Welcome to my NPX business card! This project allows you to quickly view my contact information, download my resume, and even schedule a meeting, all directly from your terminal. It's a modern and efficient way to connect.
 
 ## 🚀 Quick Start
 
@@ -79,9 +78,3 @@ Feel free to connect with me:
 - **Website**: [vuega.net](https://vuega.net)
 - **Twitter**: [@kayalennian](https://twitter.com/kayalennian)
 
----
-
-By using this NPX card, you're just a terminal command away from connecting with me. 🚀
-```
-
-You can save this content as `README.md` in your project folder.
