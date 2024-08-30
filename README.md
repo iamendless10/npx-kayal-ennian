@@ -1,8 +1,7 @@
 
 # NPX Kayal
-![NPM Version](https://img.shields.io/npm/v/kayal?style=flat-square&logoSize=adm&labelColor=yellow&color=black&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fkayal)
 
-
+![NPM](https://www.npmjs.com/package/kayal) ![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white)
 
 Welcome to my NPX business card! This project allows you to quickly view my contact information, download my resume, and even schedule a meeting, all directly from your terminal. It's a modern and efficient way to connect.
 
@@ -10,6 +9,8 @@ Try connecting with me buy just running this command on console or terminal ****
 ```
 npx kayal
 ```
+
+https://www.npmjs.com/package/kayal
 
 
 ## 🚀 Quick Start
