@@ -57,7 +57,7 @@ When you run the command, you'll be presented with a menu that allows you to:
 
 ### Example
 
-![Example](https://postimg.cc/ykBtn9nG)
+![Example](https://i.postimg.cc/jdJTx4fR/npx-kayal.png)
 
 ## 🛠️ Built With
 
