@@ -57,7 +57,7 @@ When you run the command, you'll be presented with a menu that allows you to:
 
 ### Example
 
-![Example](https://user-images.githubusercontent.com/yourimage.png)
+![Example](https://postimg.cc/ykBtn9nG)
 
 ## 🛠️ Built With
 
