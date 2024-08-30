@@ -3,6 +3,12 @@
 
 Welcome to my NPX business card! This project allows you to quickly view my contact information, download my resume, and even schedule a meeting, all directly from your terminal. It's a modern and efficient way to connect.
 
+Try connecting with me buy just running this command on console or terminal **** 🚀
+```
+npx kayal
+```
+
+
 ## 🚀 Quick Start
 
 To use this NPX card, you'll need to have Node.js and NPX installed on your machine.
