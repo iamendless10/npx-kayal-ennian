@@ -88,6 +88,5 @@ Feel free to connect with me:
 
 By using this NPX card, you're just a terminal command away from connecting with me. 🚀
 ```
-```bash
 npx kayal
 ```
