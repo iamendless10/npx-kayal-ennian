@@ -20,11 +20,12 @@
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^5.3.0",
-    "inquirer": "^8.2.5",
     "clear": "^0.1.0",
-    "open": "^8.4.0",
+    "cli-spinners": "^2.8.0",
+    "inquirer": "^8.2.5",
+    "kayal": "file:",
     "node-fetch": "^3.3.0",
-    "ora": "^6.1.2",
-    "cli-spinners": "^2.8.0"
+    "open": "^8.4.0",
+    "ora": "^6.1.2"
   }
 }
